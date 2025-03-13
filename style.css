@@ -1,0 +1,91 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  background: linear-gradient(lightblue, white);
+}
+header {
+  background: rgb(52, 52, 233);
+  height: 80px;
+  width: 100%;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: larger;
+  padding-top: 30px;
+  cursor: pointer;
+}
+.link1:hover {
+  color: lightgrey;
+}
+.body {
+  height: 100px;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 20px;
+}
+.video-box {
+  height: 400px;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 20px;
+  display: flex;
+  border: blue;
+}
+.video {
+  border-radius: 20px;
+}
+.text {
+  padding-left: 50px;
+  padding-top: 50px;
+  font-size: larger;
+}
+.icon {
+  margin-top: 20px;
+  font-size: 15px;
+  float: left;
+  padding-right: 20px;
+}
+.buttonbox {
+  height: 50px;
+  width: 700px;
+  display: flex;
+  margin-top: 60px;
+}
+.btn {
+  height: 50px;
+  width: 300px;
+}
+.btn1 {
+  margin-left: 100px;
+}
+button {
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+  border: none;
+  font-size: large;
+}
+button:hover {
+  background: rgb(78, 23, 230);
+  color: aliceblue;
+}
+.course {
+  height: 800px;
+  width: 90%;
+  margin: auto;
+  margin-top: 100px;
+  font-size: larger;
+  padding-left: 80px;
+}
+.heading {
+  text-align: center;
+}
