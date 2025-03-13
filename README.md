@@ -1,6 +1,6 @@
 # E-Learning-Application
 
-<img src="1.jpg"><br><br>
-<img src="2.jpg"><br><br>
-<img src="3.jpg"><br><br>
-<img src="4.jpg"><br><br>
+<img src="1.JPG"><br><br>
+<img src="2.JPG"><br><br>
+<img src="3.JPG"><br><br>
+<img src="4.JPG"><br><br>
